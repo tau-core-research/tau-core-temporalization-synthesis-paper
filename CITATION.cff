@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Temporalization of an Atemporal Parent"
+message: "This is a preparation manuscript; cite a released version only."
+type: article
+authors:
+  - family-names: Olcsak
+    given-names: Jozsef
+year: 2026
+license: MIT

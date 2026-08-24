@@ -1,0 +1,285 @@
+{
+  "title": "Tau Core temporalization synthesis result ledger",
+  "snapshot_date": "2026-08-23",
+  "canonical_working_source": "tau-core-theory/docs/tau_core_temporal_seed_base_morphogenesis_branch_001.md",
+  "scope": "Net current results only; superseded intermediate gates remain provenance records in the canonical source.",
+  "result_groups": [
+    {
+      "id": "TS-R01",
+      "result": "Atemporal parent, stabilized morphology, body-conditioned channel and terminal readout direction",
+      "owner": "Foundation Paper I",
+      "status": "inherited architecture",
+      "use": "fixes the non-temporal parent ontology and forward-only generative arrows"
+    },
+    {
+      "id": "TS-R02",
+      "result": "Finite source signatures and joint-incidence representation constraints",
+      "owner": "Foundation Paper II",
+      "status": "inherited conditional representation results",
+      "use": "types the source objects without claiming actuality"
+    },
+    {
+      "id": "TS-R03",
+      "result": "Complete record edges, holonomy transport and recovery-correctable readouts",
+      "owner": "Foundation Paper III",
+      "status": "inherited exact and conditional record results",
+      "use": "supplies stable-record transport without a parent history store"
+    },
+    {
+      "id": "TS-R04",
+      "result": "Physical parent-law realization boundary and EOCC as enriched actuality content",
+      "owner": "Foundation Paper IV",
+      "status": "conditional completion plus exact non-entailment",
+      "use": "separates stationary realization from physical occurrence"
+    },
+    {
+      "id": "TS-R05",
+      "result": "Temporalization fiber, exact-cochain criterion, observer clocks and finite interventional simulation no-go",
+      "owner": "Foundation Paper V",
+      "status": "exact finite theorems under declared domains",
+      "use": "provides the temporal descent layer imported by the synthesis theorem"
+    },
+    {
+      "id": "TS-R06",
+      "result": "Observer-relative quantizer cells, exhaustive Choi record detection and no-retro history refinement",
+      "owner": "Foundation Paper VI",
+      "status": "conditional quantum/readout theorems",
+      "use": "defines when continuous formation becomes an operational record"
+    },
+    {
+      "id": "TS-R07",
+      "result": "Gravity, matter and gauge terminals are downstream conditional assemblies",
+      "owner": "Foundation Paper VII",
+      "status": "inherited terminal claim boundary",
+      "use": "forbids identifying parent actuality directly with 4D stress-energy"
+    },
+    {
+      "id": "TS-R08",
+      "result": "The seed is a base-relative generative key, not the realized body; observers are body-supported relational descents",
+      "owner": "TMB 379--391",
+      "status": "typed ontology decision with conditional constructions",
+      "use": "fixes the seed--base--body--observer meaning used throughout"
+    },
+    {
+      "id": "TS-R09",
+      "result": "Temporal completions form a fibered enhancement over temporalizable atemporal carriers",
+      "owner": "TMB 414",
+      "status": "proved by typing",
+      "use": "replaces the earlier rival-branch framing"
+    },
+    {
+      "id": "TS-R10",
+      "result": "A prescribed finite proto-time cochain integrates iff every signed cycle period vanishes after physical-null descent",
+      "owner": "TMB 414 / Foundation Paper V",
+      "status": "proved",
+      "use": "gives the exact temporalizability test"
+    },
+    {
+      "id": "TS-R11",
+      "result": "A complete quotient-basic occurrence action selects an exact order cochain; EOCC makes its evaluation strictly positive off equilibrium",
+      "owner": "TMB 415--416",
+      "status": "proved inside the adopted enriched actuality completion",
+      "use": "provides internal source selection plus actuality, not Nature selection"
+    },
+    {
+      "id": "TS-R12",
+      "result": "Seed--base response can give stable monotone relaxation, finite action budget and resolution-relative freezing without continuing maintenance power",
+      "owner": "TMB 402--424 and 451--458",
+      "status": "conditional theorem family",
+      "use": "formalizes gradual formation, frozen-prefix persistence and observer-relative stabilization"
+    },
+    {
+      "id": "TS-R13",
+      "result": "Protected seed grammar may survive lossy relay, but attenuation alone fixes neither latency growth nor an absolute clock scale",
+      "owner": "TMB 402--405 and 57395--57666",
+      "status": "proved no-go plus conditional slowdown criteria",
+      "use": "separates invariant transmission, amplitude attenuation and proto-duration"
+    },
+    {
+      "id": "TS-R14",
+      "result": "Observer time, clock units and measured constants arise only after observer-source access, stable quantization and calibration; tick intensity factorizes into observer-cell density, channel transmission and Parent front rate",
+      "owner": "Foundation Paper V; TMB 221, 270, 379 and 551",
+      "status": "conditional descent with exact non-entailment of SI scale",
+      "use": "prevents identification of proto-order with a universal measured time and prevents circular proto-rate inference from one clock series"
+    },
+    {
+      "id": "TS-R14A",
+      "result": "A registered observer-cell density, source-owned transmission and positive Parent-scale one-form jointly define the invariant rate u_r=I_O/(nu_O T_q kappa_P)",
+      "owner": "Foundation Paper V; TMB 584",
+      "status": "conditional positive completion plus exact same-record scale and atemporal-comparator non-entailment",
+      "use": "shows how proto-rate becomes reparameterization invariant while proving that calibrated order alone does not establish literal Parent evolution"
+    },
+    {
+      "id": "TS-R14B",
+      "result": "The clock density and coordinate EOCC metric define the invariant physical response metric Gamma_hat=kappa_P Gamma_rho and calibrated law dq/dtau_P=-Gamma_hat^-1 dA_occ, while the full autonomous flow still has an exact simultaneous atemporal orbit representation",
+      "owner": "Foundation Paper V; TMB 585",
+      "status": "conditional covariance theorem plus exact ontological non-identifiability no-go",
+      "use": "closes the calibrated EOCC rate bridge without promoting primitive successive actuality to an empirical discriminator"
+    },
+    {
+      "id": "TS-R15",
+      "result": "A 4D formation exchange current and finite transferred budget can be constructed, but the equation of state, localization and dark-sector split are not determined",
+      "owner": "TMB 425--440",
+      "status": "conditional construction plus exact non-entailment",
+      "use": "sets the energy and dark-sector claim boundary"
+    },
+    {
+      "id": "TS-R16",
+      "result": "Every finite source-frozen acyclic interventional process in the declared class has an operationally identical atemporal simultaneous representation",
+      "owner": "TMB-INTSIM1 / Foundation Paper V",
+      "status": "proved no-go",
+      "use": "blocks unrestricted ontic inference from finite internal process tables"
+    },
+    {
+      "id": "TS-R17",
+      "result": "Bounded source-owned atemporal comparators may be rejected by nonfactorizing rank/capacity growth, but unrestricted contextual atemporal descriptions saturate finite tables",
+      "owner": "TMB 407--413 and 442--550",
+      "status": "conditional discriminator plus saturation no-go",
+      "use": "defines the lawful empirical proof ladder"
+    },
+    {
+      "id": "TS-R18",
+      "result": "Public galaxy, atomic, glass, photonic and process-tomography preflights do not yet provide a decisive temporal-parent signal",
+      "owner": "TMB observational program",
+      "status": "null, blocked or non-identifiable prevalidation results",
+      "use": "preserves negative evidence and prevents empirical overclaim"
+    },
+    {
+      "id": "TS-R19",
+      "result": "Positive Parent proto-order is compatible with negative post-selected weak-time readouts",
+      "owner": "TMB 500",
+      "status": "proved finite compatibility witness",
+      "use": "separates Parent ordering from conditional observer time"
+    },
+    {
+      "id": "TS-R20",
+      "result": "Parent-fiber intersections refine compatible histories without rewriting stable records; no-retro signalling needs common preparation and normalized later instruments",
+      "owner": "TMB 555 / Foundation Paper VI",
+      "status": "proved conditionally",
+      "use": "gives the delayed-choice and history-refinement boundary"
+    },
+    {
+      "id": "TS-R21",
+      "result": "EOCC action descent, observer order and persistent records do not by themselves select an entropy arrow; local entropy growth is equivalent to a signed action-gradient alignment condition",
+      "owner": "TMB 456 / PR-ETN1",
+      "status": "proved non-entailment plus exact local criterion",
+      "use": "prevents observer stability or action descent from being renamed as the thermodynamic second law"
+    },
+    {
+      "id": "TS-R22",
+      "result": "A source-owned non-erasing visible refinement with a consistent marginal ensemble gives the exact increment H(Y_next)-H(Y_old)=H(front|old)>=0",
+      "owner": "TMB 457--458",
+      "status": "proved conditionally",
+      "use": "derives accessible readout entropy growth while separating it from observer-loss and thermodynamic entropy"
+    },
+    {
+      "id": "TS-R23",
+      "result": "Strict front refinement is exactly finite nonfactorization of the new relative effect within an old readout fiber, with stacked-Jacobian rank novelty as the regular local criterion",
+      "owner": "TMB 458--461",
+      "status": "proved; physical common-source occupation remains open",
+      "use": "reduces the entropy/readout arrow to one source-frozen hidden-fiber effect composite"
+    },
+    {
+      "id": "TS-R24",
+      "result": "Common source ownership, EOCC and strict front novelty do not select the thermodynamic entropy sign; a source-owned free-action identity with conserved energy and positive fixed conversion scale is conditionally sufficient",
+      "owner": "TMB 456.5",
+      "status": "exact same-reduct no-go plus conditional local theorem",
+      "use": "reduces the thermodynamic-arrow problem to a concrete free-action and front-macroterminal source law rather than common-source naming"
+    },
+    {
+      "id": "TS-R25",
+      "result": "A symmetric connected configuration Laplacian has an exact logarithmic-mean EOCC gradient-flow representation, free-action decomposition and H-theorem; front conditional entropy need not equal thermodynamic production",
+      "owner": "TMB 456.6 / PR-H1 / PR-HEAT1",
+      "status": "proved on the declared conserved macrofiber plus exact FMT countermodel",
+      "use": "replaces direct FMT identification by one precise physical front-to-configuration incidence target"
+    },
+    {
+      "id": "TS-R26",
+      "result": "The unchanged SBMR and configuration-heat reduct admits both registered and nonregistered fronts even with positive activation; faithful presentations of one primitive source alphabet conditionally fix the unique incidence",
+      "owner": "TMB 456.7",
+      "status": "exact same-reduct no-go plus conditional unique common-atom lift",
+      "use": "proves that the remaining temporal/thermal bridge is primitive atomic co-ownership rather than another gain or common-source label"
+    },
+    {
+      "id": "TS-R27",
+      "result": "One universal seed with a fixed primitive algebra need not act faithfully on the thermal carrier; faithful unital multiplicity-free dimension-exhaustive actions conditionally force rank-one atomic matching",
+      "owner": "TMB 456.8",
+      "status": "exact same-seed no-go plus conditional rank-one module theorem",
+      "use": "replaces universal-seed naming by the precise physical requirement of faithful common primitive module ownership"
+    },
+    {
+      "id": "TS-R28",
+      "result": "A cyclic root for an N-atom seed algebra on an N-dimensional carrier forces faithful exhaustive rank-one action; paired front and thermal cyclicity is equivalent to positivity of both source-root Gram operators",
+      "owner": "TMB 456.9",
+      "status": "conditional module theorem plus exact one-sided-cyclicity countermodel",
+      "use": "compresses three module assumptions to one independently testable paired source-rank condition"
+    },
+    {
+      "id": "TS-R29",
+      "result": "The primitive joint Hessian gives C_X=H_X^-1 B_X and source-work Gram B_X^*H_X^-1 B_X; paired cyclicity is equivalent to individual injectivity of both mixed blocks",
+      "owner": "TMB 456.10",
+      "status": "conditional action theorem plus exact stable rank-loss countermodel",
+      "use": "reduces physical paired cyclicity to protected non-erasure on both body-conditioned descents"
+    },
+    {
+      "id": "TS-R30",
+      "result": "A faithful common lossy source quotient exists exactly when the front and thermal mixed blocks have equal kernels; body-essential seed minimality does not force that equality",
+      "owner": "TMB 456.11",
+      "status": "exact quotient theorem plus injective-master unequal-kernel countermodel",
+      "use": "replaces universal losslessness by the least common protected-kernel descent compatible with Tau ontology"
+    }
+  ],
+  "synthesis_claims": {
+    "atemporal_parent_is_fundamental_input": true,
+    "temporal_completion_is_fibered_enhancement": true,
+    "exact_cycle_condition_is_necessary_and_sufficient_on_finite_connected_complex": true,
+    "eocc_actuality_is_derived_from_old_bare_tau": false,
+    "eocc_actuality_is_adopted_in_the_enriched_working_completion": true,
+    "observer_time_equals_parent_proto_order": false,
+    "observer_tick_count_is_reparameterization_invariant_on_a_monotone_complete_path": true,
+    "observer_tick_intensity_identifies_parent_front_rate_without_independent_calibration": false,
+    "arbitrarily_many_uncalibrated_observers_identify_parent_front_rate": false,
+    "absolute_proto_rate_is_defined_without_parent_scale_anchor": false,
+    "source_calibrated_proto_rate_is_reparameterization_invariant": true,
+    "calibrated_order_proves_literal_parent_evolution": false,
+    "clock_mobility_product_is_reparameterization_invariant": true,
+    "calibrated_eocc_proves_literal_parent_evolution": false,
+    "eocc_and_record_persistence_force_entropy_arrow": false,
+    "visible_refinement_with_consistent_ensemble_has_nonnegative_readout_entropy_increment": true,
+    "accessible_readout_entropy_is_already_thermodynamic_entropy": false,
+    "common_source_ownership_with_front_novelty_forces_thermodynamic_entropy_arrow": false,
+    "free_action_identity_with_conserved_energy_and_positive_fixed_scale_forces_local_entropy_growth": true,
+    "free_action_and_front_macroterminal_laws_are_derived_from_current_tau_source": false,
+    "configuration_laplacian_has_exact_logarithmic_mean_eocc_free_action_form": true,
+    "front_conditional_entropy_generically_equals_thermodynamic_entropy_production": false,
+    "physical_front_to_thermodynamic_configuration_incidence_is_derived": false,
+    "sbmr_plus_heat_forces_front_configuration_incidence": false,
+    "primitive_atomic_coownership_conditionally_fixes_unique_incidence": true,
+    "one_universal_seed_forces_faithful_front_thermal_modules": false,
+    "faithful_dimension_exhaustive_modules_force_rank_one_atomic_matching": true,
+    "paired_cyclic_dimension_matched_modules_force_rank_one_atomic_matching": true,
+    "front_cyclicity_alone_forces_thermal_cyclicity": false,
+    "primitive_mixed_block_injectivity_forces_paired_cyclicity": true,
+    "positive_stability_and_stacked_rank_force_each_leg_complete": false,
+    "equal_mixed_block_kernels_define_unique_maximal_common_faithful_quotient": true,
+    "body_essential_seed_minimality_forces_equal_postbody_kernels": false,
+    "past_hypothesis_is_solved": false,
+    "finite_internal_interventions_identify_ontic_traversal": false,
+    "formation_budget_is_already_4d_energy": false,
+    "dark_sector_is_derived": false,
+    "decisive_empirical_temporal_signal_exists": false,
+    "nature_selection_of_the_temporal_completion_is_proved": false
+  },
+  "remaining_blockers": [
+    "Nature-level ownership and occupation of the enriched actuality law",
+    "a common physical source for the formation front, observer-access jet, complete instrument and stable quantizer",
+    "two protected non-erasing primitive mixed Hessian blocks for the front and thermal carriers, with common primitive measure, macroterminal and rewrite incidence",
+    "a low-entropy initial boundary under the same physical macroterminal",
+    "a source-derived absolute clock and action-to-SI unit bridge",
+    "joint source occupation of registered cell density, transmission and Parent scale form",
+    "joint source occupation of the Parent clock form and EOCC physical response metric",
+    "a source-owned rule forbidding simultaneous orbit completion or a genuinely nonfactorizing terminal",
+    "a bounded source-complete atemporal comparator or a genuinely nonfactorizing terminal",
+    "independent empirical replication after all source, nuisance and capacity controls are frozen"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "calibrated_eocc": {
+    "clock_mobility_product_is_invariant": true,
+    "physical_action_release_is_positive": true,
+    "physical_eocc_rate_is_invariant": true,
+    "release": 5.285714285714286,
+    "simultaneous_orbit_reproduces_temporal_composition": true
+  },
+  "common_source_entropy": {
+    "drifting_entropy_rate": -0.3333333333333333,
+    "energy_drift_can_reverse_entropy_rate": true,
+    "free_action_completion_has_positive_entropy_rate": true,
+    "free_action_entropy_rate": 0.3333333333333333,
+    "free_action_rate_equals_dissipation_over_theta": true,
+    "same_packet_allows_negative_entropy_rate": true,
+    "same_packet_allows_positive_entropy_rate": true,
+    "same_packet_has_hidden_front_novelty": true
+  },
+  "configuration_laplacian_thermodynamics": {
+    "configuration_laplacian_is_symmetric_positive_semidefinite": true,
+    "entropy_rate": 0.29862657820467575,
+    "fmt_identity_requires_negative_residual_at_equilibrium_control": true,
+    "fmt_required_residual": -1.3862943611198906,
+    "laplacian_entropy_rate_is_positive_off_equilibrium": true,
+    "laplacian_entropy_rate_matches_pair_sum": true,
+    "logarithmic_mean_onsager_flow_equals_heat_flow": true,
+    "relative_entropy_action_has_exact_free_action_decomposition": true
+  },
+  "entropy_arrow": {
+    "conditional_front_entropy_bits": 0.5,
+    "factorizing_control_has_no_hidden_fiber_split": true,
+    "hidden_fiber_nonfactorization_detected": true,
+    "readout_chain_rule_identity": true,
+    "same_eocc_orbit_allows_negative_entropy_rate": true,
+    "same_eocc_orbit_allows_positive_entropy_rate": true,
+    "visible_refinement_entropy_nonnegative": true
+  },
+  "eocc": {
+    "certificate": 5.285714285714286,
+    "descent_equals_minus_certificate": true,
+    "positive_actuality_certificate": true,
+    "strict_action_descent": true
+  },
+  "exact_cochain": {
+    "acyclic_inconsistent_diamond_nonexact": true,
+    "consistent_diamond_exact": true
+  },
+  "formation_budget": {
+    "budget": 2.88,
+    "finite_budget_identity": true
+  },
+  "interventional_simulation": {
+    "finite_dag_and_simultaneous_relation_agree": true
+  },
+  "ledger_group_count": 32,
+  "no_retro": {
+    "early_marginal_setting_independent": true,
+    "normalized_future_kernels": true
+  },
+  "tfci_incidence": {
+    "activation": 1.5,
+    "common_atom_lift_is_unique_identity": true,
+    "common_atom_lift_preserves_incidence": true,
+    "common_atom_lift_preserves_measure": true,
+    "complete_front_readout_cannot_factor_through_constant_incidence": true,
+    "constant_control_incidence_is_noninjective": true,
+    "cyclic_front_evaluation_is_invertible": true,
+    "cyclic_thermal_evaluation_is_invertible": true,
+    "equal_kernel_descents_define_faithful_common_quotient": true,
+    "equal_rank_descents_can_have_different_kernels": true,
+    "faithful_thermal_action_has_rank_one_atoms": true,
+    "front_cyclicity_does_not_force_thermal_cyclicity": true,
+    "full_rank_mixed_blocks_give_positive_work_grams": true,
+    "injective_master_does_not_force_equal_descent_kernels": true,
+    "joint_hessian_response_is_h_inverse_b": true,
+    "nonfaithful_thermal_action_collapses_one_atom": true,
+    "paired_cyclic_gram_is_positive_definite": true,
+    "positive_stable_hessian_does_not_prevent_thermal_source_erasure": true,
+    "primitive_seed_projectors_are_orthogonal_and_exhaustive": true,
+    "same_seed_faithful_and_nonfaithful_thermal_actions_are_unital": true,
+    "same_seed_noncyclic_thermal_gram_is_singular": true,
+    "source_depth_activation_is_positive": true,
+    "stacked_source_completeness_does_not_force_each_leg_complete": true
+  }
+}
