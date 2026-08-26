@@ -12,6 +12,22 @@ its proof. The former separator subquestions are closed as independent
 internal gates in the enriched MVP, while physical realization of the one
 joint datum and completeness of the future terminal family remain open.
 
+## Unified Readout Equation
+
+The synthesis now records the complete composition
+\[
+\mathfrak R_{OS}
+=
+\left\langle Q_{OS}^{(a)}\circ T_{OS}^{(a)}\right\rangle_a
+\circ\Xi_{OS}\circ A_{OS}
+\left[\operatorname{Stab}_{B_\tau^{\rm base}}(\Sigma_\tau)\right].
+\]
+The body is the deep generative ancestor and \(\Xi_{OS}\) is the immediate
+shared preterminal ancestor after observer--source access enters. The formula
+unifies pure and hybrid readouts without making time their source. It is
+proved only for the declared occupied atlas; a Nature-wide no-bypass theorem
+remains open.
+
 ## Main claim
 
 An atemporal Tau parent carrier may admit a source-owned temporalization as an
@@ -87,6 +103,30 @@ bounds both response tables. Finite sequential reuse has an atemporal
 constraint-network dual with the same cut/bond dimension. Such a comparator
 can therefore be rejected only as a preregistered bounded model class.
 
+The latest body--observer audit adds a distinct source gate. Exact observer
+compression can be written from the inherited rooted body metric, but the
+current direct-sum body and observer packets have zero mixed Hessian and do
+not transfer that metric. A seed metric-copy functor (SMCF) would conditionally
+close the handoff and produce a source-frozen three-mode stiffness ratio
+`0.725200588341`. This does not temporalize an algebraic rank-two projector,
+prove a physical 2D parent surface, or separate temporal traversal from its
+saturated atemporal counterpart. No eligible public 3x3 susceptibility packet
+has been located.
+
+The synthesis now imports the generalized observer-access theorem without
+taking ownership from Papers VI and VII-A. The invariant candidate is the
+complete accessible parent quotient, while its decomposition into time,
+quantum, gravity and other terminal blocks may be observer-dependent. This is
+an atemporal simultaneous factorization and therefore does not by itself
+support literal Parent evolution or Nature-level temporalization.
+
+The time-sufficiency theorem now distinguishes the rich common ordered carrier
+from its clock projection. The clock determines all other terminals exactly
+when its stable fibers equal those of the complete readout; locally this is
+equality of the stacked ranks. A scalar clock cannot determine a higher-rank
+terminal packet, and local rank equality does not replace the global nonlinear
+fiber test.
+
 ## Does not claim
 
 The paper does not claim that old-bare Tau entails EOCC, that Nature selects
@@ -114,6 +154,23 @@ The manuscript is a conditional mathematical synthesis and research-status
 paper. It deliberately imports rather than re-proves Foundation Paper I--VII
 results. Superseded intermediate TMB attempts are retained in the theory hub
 for provenance but are not promoted into independent paper claims.
+
+## Common-carrier and selective-control update
+
+The synthesis now composes the common-carrier terminal-overlap theorem,
+phase-equivariant effect--stress gluing, the current source no-go for physical
+orbit locking, and the exact stage/closure discriminator. The closure-blocked
+and closure-allowed post cells plus a matched leakage dummy are mandatory.
+Passing would support the frozen incidence law, not Tau Core or temporal
+Parent ontology.
+
+## Full-4D Scoring Boundary
+
+The synthesis inherits one common standard-excess object,
+`E_K = (K_HH - K_std) - C K_VV^-1 C^dagger`. Temporalization is therefore a
+typed terminal image of a full-4D source-frozen packet, not an independently
+fitted clock correction. This preserves the atemporal/temporal equivalence
+boundary and does not establish a Tau-over-GR timing anomaly.
 
 ## Reproduce
 
