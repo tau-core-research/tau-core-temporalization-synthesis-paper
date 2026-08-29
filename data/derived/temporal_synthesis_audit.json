@@ -18,7 +18,7 @@
   },
   "configuration_laplacian_thermodynamics": {
     "configuration_laplacian_is_symmetric_positive_semidefinite": true,
-    "entropy_rate": 0.29862657820467575,
+    "entropy_rate": 0.2986265782046758,
     "fmt_identity_requires_negative_residual_at_equilibrium_control": true,
     "fmt_required_residual": -1.3862943611198906,
     "laplacian_entropy_rate_is_positive_off_equilibrium": true,
