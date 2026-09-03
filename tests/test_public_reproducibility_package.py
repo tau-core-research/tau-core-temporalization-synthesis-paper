@@ -26,6 +26,7 @@ def test_required_publication_files_exist():
 
 def test_manuscript_scope_and_nonredundancy_markers():
     tex = (ROOT / "temporalization_synthesis_submission_source/main.tex").read_text()
+    normalized = " ".join(tex.split())
     for marker in [
         "Temporalization of an Atemporal Parent",
         "Nonredundancy and ownership",
@@ -42,8 +43,11 @@ def test_manuscript_scope_and_nonredundancy_markers():
         "H(F_n\\mid Y_n)\\ge0",
         "Proof ladder, falsification and current status",
         "component results compose",
+        "Internal measurement backaction does not temporalize the Parent",
+        "eq:synthesis-generalized-backaction",
     ]:
         assert marker in tex, marker
+    assert "same-context, clamped-target comparison" in normalized
     assert "Tau Core is proven" not in tex
     assert "dark matter is derived" not in tex
     assert "Nature selects the enriched temporal completion" not in tex
@@ -158,3 +162,22 @@ def test_arxiv_archive_is_source_only_and_complete():
     assert "figures/fig_temporalization_proof_spine.pdf" in names
     assert "main.pdf" not in names
     assert not any(name.endswith((".aux", ".log", ".toc", ".out")) for name in names)
+
+
+def test_parent_terminal_migration_synthesis_ledger():
+    data = json.loads(
+        (ROOT / "data/derived/parent_terminal_migration_synthesis_ledger.json").read_text()
+    )
+    assert data["continuous_descriptor"] == "Xi_OS^cont"
+    assert data["operational_record"] == "D_OS^op=Q_OS(Xi_OS^cont)"
+    assert data["mopr_migration"] == "fiber_inclusion"
+    assert data["temporal_coframe_migration"] == "conditional_exact"
+    assert data["quantum_real_linear_migration_sufficient"] is False
+    assert data["mixed_hessian_response"] == "Gamma=-H^{-1}B"
+    assert data["vertical_jet_selected_by_positivity_and_schur_neutrality"] is False
+    assert data["nature_occupation"] == "open"
+    assert data["q_R_derivation"] == "not_claimed"
+    tex = (ROOT / "temporalization_synthesis_submission_source/main.tex").read_text()
+    assert "eq:synthesis-mopr-migration" in tex
+    assert "eq:synthesis-coframe-migration" in tex
+    assert "eq:synthesis-mixed-hessian-solder" in tex

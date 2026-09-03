@@ -7,6 +7,21 @@ observer-record and identifiability audits. Component theorems remain owned by
 their original papers or canonical theory packets; this manuscript owns their
 typed composition and the consolidated proof/status ledger.
 
+## Morphological-Response Convention
+
+The base is the pre-readout carrier/support context, the seed is its
+base-readable relational/loading pattern, and the complete stable realized
+response is the **stabilized morphological response configuration**
+\(M_\tau^\star\), with “morphological body” retained as shorthand.  Atemporal
+selection, literal morphogenetic traversal and observer time are separately
+typed.  The elastic-plate mapping is a role analogy only: plate = base,
+applied load/contact pattern = seed incidence, stable excited configuration =
+body.
+Parent-side “objects” are typed pregeometric relational candidates, not
+ordinary objects already embedded in recovered spacetime. Their physical
+occupation remains open; ordinary objects are downstream persistent internal
+structures/readouts of the stabilized response.
+
 The synthesis now incorporates the joint-source compression without repeating
 its proof. The former separator subquestions are closed as independent
 internal gates in the enriched MVP, while physical realization of the one
@@ -120,6 +135,15 @@ quantum, gravity and other terminal blocks may be observer-dependent. This is
 an atemporal simultaneous factorization and therefore does not by itself
 support literal Parent evolution or Nature-level temporalization.
 
+The synthesis also imports the generalized internal-measurement response.
+With the morphological body frozen, a supplied regular post-body functional
+gives `D_o x_*=-H_X^-1 C_XO`; every typed terminal then splits into direct
+observer-context dependence and target-mediated backaction. Hard outputs use
+the same-context, clamped-target control, and independent content is counted
+by stacked mediated-response rank rather than terminal names. This simultaneous
+implicit response does not temporalize the Parent, reselect the body, prove a
+nonzero physical mixed block, or identify a Tau-specific anomaly.
+
 The time-sufficiency theorem now distinguishes the rich common ordered carrier
 from its clock projection. The clock determines all other terminals exactly
 when its stable fibers equal those of the complete readout; locally this is
@@ -128,6 +152,22 @@ terminal packet, and local rank equality does not replace the global nonlinear
 fiber test.
 
 ## Does not claim
+
+The synthesis now uses `Xi_OS^cont` for the smooth common Parent descriptor
+and `D_OS^op=Q_OS(Xi_OS^cont)` for the resolved record.  Legacy laws migrate
+only under exact fibre inclusion; descriptor equivalence requires fibre
+equality.  Paper V's coframe migration then preserves already calibrated
+proper-time and distance values, subject to hard-quantizer partition
+refinement.  Paper VI requires more: a real-linear migration is not a quantum
+migration without complex/star/positive structure or the corresponding CPTP
+transport and recovery on the occupied code.
+
+The mixed-Hessian identity `Gamma_resp=-H^-1 B`, with
+`Gamma_resp=J_OS` for SBTCL106, removes a free post-body solder.  Its zero
+Schur remainder does not prove the source-vertical jet: a same-reduct positive
+counterfamily explicitly leaves that choice undetermined.  Physical source
+ownership, calibration, Nature occupation and any galactic `q_R` law remain
+outside the proved synthesis.
 
 The paper does not claim that old-bare Tau entails EOCC, that Nature selects
 the enriched temporal completion, that an absolute parent clock exists, that
@@ -144,6 +184,7 @@ scale/reference.
 ## Included data
 
 - a compact 30-group inherited-results ledger with canonical owners and claim levels;
+- `data/derived/parent_terminal_migration_synthesis_ledger.json`;
 - finite temporalizability, actuality, entropy-arrow, budget and identifiability controls;
 - two paper figures generated from frozen labels;
 - no raw observational endpoint data.

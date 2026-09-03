@@ -1,0 +1,18 @@
+{
+  "schema": "tau-core-parent-terminal-migration-synthesis-v1",
+  "continuous_descriptor": "Xi_OS^cont",
+  "operational_record": "D_OS^op=Q_OS(Xi_OS^cont)",
+  "mopr_migration": "fiber_inclusion",
+  "exact_descriptor_equivalence": "fiber_equality",
+  "temporal_coframe_migration": "conditional_exact",
+  "hard_quantizer_migration": "partition_refinement",
+  "quantum_real_linear_migration_sufficient": false,
+  "quantum_additional_structure": "complex_star_positive_or_CPTP_compatible",
+  "mixed_hessian_response": "Gamma=-H^{-1}B",
+  "sbtcl106_specialization": "Gamma=J_OS",
+  "vertical_jet_selected_by_positivity_and_schur_neutrality": false,
+  "physical_source_ownership": "open",
+  "physical_calibration": "open",
+  "nature_occupation": "open",
+  "q_R_derivation": "not_claimed"
+}
