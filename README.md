@@ -151,6 +151,25 @@ equality of the stacked ranks. A scalar clock cannot determine a higher-rank
 terminal packet, and local rank equality does not replace the global nonlinear
 fiber test.
 
+## ECTR Update: Atemporal Carrier, Conditional Expansion Class
+
+The latest result resolves a recurring ambiguity without making the Parent
+literally temporal. The positive R1 access coordinate remains an atemporal
+integral on a source-frozen channel path. After observer-clock calibration,
+one separately sourced Q--metric lock converts the loss of fine-mode access
+into `H_O=Gamma/E_Q`. Thus an atemporal Parent can support a genuinely
+time-dependent 4D readout without a stored history or Parent trajectory.
+
+The result is a classifier of occupied universe/observer contexts, not a law
+that every possible Tau universe expands. Positive Q-locked access, zero
+access, complementary-leg locking and missing locking yield expanding,
+static, contracting and unclassified cases respectively. Our universe's
+membership and any acceleration law remain open.
+
+Its causal reading is also bounded: expansion and terminal weighting may be
+co-descendants of one source packet. Expansion can modulate dominance inside
+that selected law, but does not create or select the terminal laws.
+
 ## Does not claim
 
 The synthesis now uses `Xi_OS^cont` for the smooth common Parent descriptor
@@ -229,3 +248,23 @@ builds the source-only arXiv ZIP, and runs the public tests.
 `arxiv_submission_source.zip` is generated from
 `temporalization_synthesis_submission_source/` and excludes the compiled PDF
 and temporary build files.
+
+<!-- BEGIN OBSERVER UPDATE 20260914 -->
+## Observer realization update (2026-09-14)
+
+The supplied oscillator clock and energy conversion are downstream premises. Neither a covariance nor ground-state minimization derives observer time or turns the atemporal parent into a dynamical memory.
+
+The manuscript distinguishes inherited BRAC contact, conditional coherent-state
+selection and interacting local covariance from physical observer identification,
+preparation and stable resolution. Those physical claims remain open. No
+empirical score was changed. The [dependency and source-result ledger](data/derived/observer_update_2026_09_14.json) records the assumptions and controls.
+<!-- END OBSERVER UPDATE 20260914 -->
+
+<!-- BEGIN LAB UPDATE 20260915 -->
+## Finite lab integration (2026-09-15)
+
+The manuscript imports the scope-specific source, body, observer or terminal
+result from the current lab. Supplied priors, conditional recovery and physical
+selection remain separate. No SI constant, viable universe or Tau-specific
+signal is newly established. See the [source and ownership ledger](data/derived/lab_update_2026_09_15.json).
+<!-- END LAB UPDATE 20260915 -->

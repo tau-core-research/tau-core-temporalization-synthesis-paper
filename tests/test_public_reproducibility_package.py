@@ -181,3 +181,12 @@ def test_parent_terminal_migration_synthesis_ledger():
     assert "eq:synthesis-mopr-migration" in tex
     assert "eq:synthesis-coframe-migration" in tex
     assert "eq:synthesis-mixed-hessian-solder" in tex
+
+
+def test_ectr_atemporal_expansion_class_boundary():
+    tex = (ROOT / "temporalization_synthesis_submission_source/main.tex").read_text()
+    assert "Atemporal access and the conditional expansion class" in tex
+    assert "eq:synthesis-ectr-access" in tex
+    assert "eq:synthesis-ectr-classifier" in tex
+    assert "universal" in tex and "expansion" in tex
+    assert "literal Parent evolution" in tex
