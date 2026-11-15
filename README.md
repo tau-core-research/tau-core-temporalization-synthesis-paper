@@ -268,3 +268,7 @@ result from the current lab. Supplied priors, conditional recovery and physical
 selection remain separate. No SI constant, viable universe or Tau-specific
 signal is newly established. See the [source and ownership ledger](data/derived/lab_update_2026_09_15.json).
 <!-- END LAB UPDATE 20260915 -->
+
+## Three-pillar closure and postulate-reduction update (2026-11-14)
+
+The Temporalization Synthesis Companion (`temporalization_synthesis_submission_source/main.tex`) compresses the Appendix claim ledger (`Table 2`) into a 14-row four-stage synthesis table and integrates `SMSD-H1` (`0.52188905 Gamma_0 > 0`), Theorem `F2` (connection-free exterior Kodama holonomy `dK`), and Theorem `U2` (`0.00e+00` UV-invariance of intensive KMS horizon periods) before `Conclusion` (`NATURE_LEVEL_CLOSURE = false`).
